@@ -1,0 +1,21 @@
+customer_id,customer_name,email,gender
+1,Frank Brown,frank.jones@mail.com,Female
+2,Alice Jones,jane.williams@example.com,Male
+3,Bob Johnson,jane.brown@example.com,Male
+4,Dana Williams,charlie.johnson@example.com,Male
+5,Jane Brown,alice.doe@email.com,Female
+6,John Smith,john.doe@example.com,Female
+7,Alice Smith,alice.smith@mail.com,Female
+8,Eve Doe,jane.johnson@mail.com,Male
+9,Jane Johnson,alice.doe@example.com,Male
+10,Frank Williams,dana.doe@email.com,Female
+11,Frank Smith,frank.doe@mail.com,Female
+12,Charlie Jones,frank.brown@mail.com,Female
+13,Jane Doe,eve.johnson@mail.com,Female
+14,John Johnson,jane.smith@example.com,Male
+15,Jane Smith,charlie.jones@mail.com,Female
+16,John Johnson,charlie.williams@example.com,Male
+17,Eve Doe,eve.jones@mail.com,Female
+18,Charlie Jones,john.johnson@mail.com,Male
+19,Dana Johnson,charlie.jones@mail.com,Female
+20,Dana Johnson,alice.johnson@example.com,Female

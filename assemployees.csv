@@ -1,0 +1,21 @@
+employee_id,employee_name,branch_id,position,salary
+1,Frank Red,2,Cashier,25000
+2,Charlie Black,1,Cleaner,18000
+3,Charlie Black,5,Chef,20000
+4,Dana Green,1,Cleaner,18000
+5,Eve Blue,1,Cleaner,30000
+6,Bob White,4,Cashier,50000
+7,Dana Green,4,Chef,20000
+8,Alice Brown,5,Chef,50000
+9,Bob White,5,Chef,25000
+10,Dana Green,5,Manager,20000
+11,Dana Green,5,Chef,20000
+12,Eve Blue,5,Security,20000
+13,Eve Blue,5,Cleaner,30000
+14,Alice Brown,3,Cashier,15000
+15,Dana Green,5,Security,20000
+16,Dana Green,3,Security,18000
+17,Frank Red,3,Manager,50000
+18,Frank Red,2,Cashier,25000
+19,Frank Red,5,Security,18000
+20,Dana Green,2,Chef,18000
